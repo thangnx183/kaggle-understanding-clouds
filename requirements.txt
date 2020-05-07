@@ -20,3 +20,4 @@ torch==1.5.0
 torchvision==0.6.0
 tqdm==4.36.1
 iterative-stratification==0.1.6
+mock==4.0.2
